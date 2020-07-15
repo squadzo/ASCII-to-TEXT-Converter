@@ -5,4 +5,4 @@ text = ""
 for i in msg:
     text += chr(int(i))
     
-print("Text is : {}".format(text))
+print("Result is : {}".format(text))
